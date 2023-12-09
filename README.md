@@ -1,0 +1,1 @@
+this is my 1st shell scripting classes on shivakumar74s batch
